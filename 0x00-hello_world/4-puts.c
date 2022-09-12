@@ -1,14 +1,14 @@
-#include <stdio.h>
+#include<stdio.h>
 
 /**
- * main - print the string in the puts function
+ * main-print the string in the puts function
  *
- * Return: Always 0 (successful)
+ * Return: Always 0 (result)
  */
-int main(void)
+int main(void) 
 {
-	puts("\"programming is like a multilingual
-puzzle");
+	puts("\"programmingg is like building a multilingua
+l puzzle");
 	return (0);
 }
 
