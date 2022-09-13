@@ -2,17 +2,17 @@
 /**
 * main - print if the number is postive, zero, or negative
 *
-* Description: using the main function
+* Description: using main function
 * this program prints "programming is positive, zero, or negative
-* Rerurn: 0
+* Return: 0
 */
 int main(void)
 {
-int c;
-for (c = '0'; c <= '9'; c++)
+char c;
+for (c = 'z'; c >= 'a'; c--)
 {
-putchar(c);
-
+putchar(ch);
+}
 putchar('\n');
 return (0);
 }
