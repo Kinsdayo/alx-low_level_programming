@@ -16,4 +16,4 @@ void print_to_98(int n);
 void print_tines_table(int n);
 void num(int r, int n);
 
-#end if
+#endif
