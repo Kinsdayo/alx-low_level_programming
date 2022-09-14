@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* _isalpha - function to check if c is a alphabetic, lowercase or uppercase
+* _isalpha - function to check if c is a alphabetic character
 * @c:	is the int that will use for the argument of the function
 * Return: Always success
 */
