@@ -19,8 +19,8 @@ void jack_bauer(void)
 	hours_reminder = hours % 10
 	_putchar(hours / 10 + '0');
 	_putchar(hours_reminder + '0');
+	minutes_reminder = minutes % 10
 	_putchar(':');
-	mintues_reminder = minutes % 10
 	_putchar(minutes / 10 + '0');
 	_putchar(minutes_reminder + '0');
 	minutes++;
