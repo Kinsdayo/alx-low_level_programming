@@ -1,5 +1,4 @@
 #include "main.h"
-#include <string.h>
 /**
  * _strlen -> function to get the length of a string
  * @s:	A pointer to an int that will be changed / updated
