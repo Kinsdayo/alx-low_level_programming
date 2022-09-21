@@ -2,10 +2,10 @@
 	#define MAIN_H
 	#include <stdio.h>
 	/**
-	 * void Prototypes()
-	 * int Prototypes()
-	 * char Prototypes()
-	 */
+	* void Prototypes()
+	* int Prototypes()
+	* char Prototypes()
+	*/
 	void reverse_array(int *a, int n);
 	void print_number(int n);
 	void print_buffer(char *b, int size);
